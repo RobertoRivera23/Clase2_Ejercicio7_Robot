@@ -10,5 +10,5 @@ package clase2_ejercicio7_robot;
  * @author rober
  */
 public class Roberto {
-    
+   System.out.println("Hola cmo estan");
 }
