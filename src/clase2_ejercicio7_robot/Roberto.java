@@ -10,7 +10,10 @@ package clase2_ejercicio7_robot;
  * @author rober
  */
 public class Roberto {
-   System.out.println("Hola cmo estan");
-//aparentemente los cambios se suben del mismo modo que la primera vez.
+protected String nombre;
 
+public Roberto (){
+this.nombre= nombre="Robert";
+//aparentemente los cambios se suben del mismo modo que la primera vez.
+}
 }

@@ -25,7 +25,7 @@ public class DanielClass {
         this.nombre = nombre;
     }
     
-    public void imprimirAlgo{
+    public void imprimirAlgo(){
      System.out.println("Hola mundo!");
     
 }
