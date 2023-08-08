@@ -18,7 +18,8 @@ public class Clase2_Ejercicio7_Robot {
         // TODO code application logic here
     Robot R = new Robot ("Tito");
     double pasos =1;
-    while (!R.bateriaVacia()){
+        System.out.println("Hola mundo!");
+    //while (!R.bateriaVacia()){
             
         //System.out.println(" "+R.avanzar(200));
     
